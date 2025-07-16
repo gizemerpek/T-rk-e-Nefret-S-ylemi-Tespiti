@@ -1,0 +1,1 @@
+# T-rk-e-Nefret-S-ylemi-Tespiti
