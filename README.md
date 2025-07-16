@@ -1,1 +1,1 @@
-# T-rk-e-Nefret-S-ylemi-Tespiti
+# Turkish hate speech detection 
